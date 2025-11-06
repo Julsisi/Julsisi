@@ -1,0 +1,25 @@
+# Sales Performance Dashboard Power BI Project
+
+## Description
+Using Power BI, this project analyzes the Sales data to uncover trends, bring out the KPIs and other opportunities using the interactive Dashboard.
+
+## Features
+1. Customers with the Highest and Lowest Sales.
+2. The Product with the Highest Revenue.
+3. The month with the Highest Profit and Revenue.
+4. The Top 10 Customers with the Highest Sales.
+5. The Country with th Highest Revenue.
+
+## How to Use
+1. Download this repository
+2. Open 'Sales Performance Dashboard Project.pbix' with Power BI Desktop
+If prompted, update the data source paths in Power BI.
+
+## Data Sources
+- Provided sample dataset in `adventure works.xlsx`.
+- Original data is anonymized for demonstration.
+
+## Screen shoot
+
+## Credits
+Created by Juliet Isiakpere
